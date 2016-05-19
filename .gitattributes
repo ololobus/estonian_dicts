@@ -1,0 +1,2 @@
+estonian.dict filter=lfs diff=lfs merge=lfs -text
+estonian.affix filter=lfs diff=lfs merge=lfs -text
